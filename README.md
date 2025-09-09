@@ -7,7 +7,7 @@ Ziel ist es, durch geschicktes Platzieren von Punkten möglichst große Flächen
 
 ## Einleitung
 
-Das Projekt demonstriert Computational Geometry in der Praxis.
+Das Projekt demonstriert Computerorientierte Mathematik in der Praxis.
 Jeder Spieler setzt abwechselnd Punkte, und nach einer festgelegten Anzahl von Zügen bestimmt das Voronoi-Diagramm die Flächenaufteilung.
 Der Spieler mit der größten Gesamtfläche gewinnt.
 
